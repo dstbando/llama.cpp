@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "llama.cpp",
-            url: "https://github.com/dstbando/llama.cpp/releases/download/0.0.1/llama.cpp.xcframework.zip",
+            url: "https://github.com/dstbando/llama.cpp/releases/download/0.0.2/llama.cpp.xcframework.zip",
             checksum: ""),
     ]
 )
