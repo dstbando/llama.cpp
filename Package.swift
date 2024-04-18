@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: “llama.cpp”,
+    name: "llama.cpp",
     platforms: [
         .iOS(.v16),
     ],
